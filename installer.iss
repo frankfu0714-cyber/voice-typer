@@ -1,5 +1,5 @@
 #define AppName "VoiceTyper"
-#define AppVersion "1.0.0"
+#define AppVersion "1.1.0"
 #define AppPublisher "Onetranscribt"
 #define AppURL "https://goldotakoutiw.com"
 #define AppExeName "VoiceTyper.exe"
