@@ -1,0 +1,31 @@
+# --- Python -----------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# --- Virtual environment ----------------------------------------------
+.venv/
+venv/
+env/
+
+# --- PyInstaller build output -----------------------------------------
+build/
+dist/
+
+# --- Inno Setup build output ------------------------------------------
+installer_output/
+
+# --- Dev / editor files -----------------------------------------------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Local-only state --------------------------------------------------
+# This is a development leftover from earlier runs; the real per-user
+# settings file lives under %LOCALAPPDATA%\VoiceTyper\app_settings.json
+# and is never committed.
+app_settings.json
